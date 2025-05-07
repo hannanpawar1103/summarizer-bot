@@ -10,8 +10,3 @@ A lightweight Discord bot that summarizes the content of any message you reply t
 - 🧠 Can summarize messages (basic or AI-based)
 - 📦 Built with Node.js and Discord.js
 - 💬 Easily extendable for more commands
-
----
-
-## 📁 Project Structure
-
